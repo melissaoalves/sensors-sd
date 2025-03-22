@@ -75,6 +75,18 @@ flutter run
 
 ---
 
+## 📸 *Prints da Interface*
+### 🔹 *Aplicativo - Modo de Segurança Desativado*
+![Login](prints/segurancaOff.png)
+
+### 🔹 *Aplicativo - Modo de Segurança Ativado*
+![Cadastro](prints/segurancaOn.png)
+
+### 🔹 *Servidor*
+![Tela Principal](prints/servidor.png)
+
+---
+
 ## 👨‍💻 **Autores**
 **Davi Rodolfo e Melissa Alves**
   

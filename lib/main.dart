@@ -41,7 +41,7 @@ class _MyAppState extends State<MyApp> {
     if (kDebugMode) {
       print("🔌 Tentando conectar ao servidor...");
     }
-    socket = IO.io('http://192.168.0.102:5000', IO.OptionBuilder()
+    socket = IO.io('http://192.168.20.111:5000', IO.OptionBuilder()
        .setTransports(['websocket'])
        .setExtraHeaders({'Connection': 'Upgrade', 'Upgrade': 'websocket'})
        .build());
