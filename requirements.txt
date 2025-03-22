@@ -1,0 +1,6 @@
+Flask==2.3.3
+flask-socketio==5.3.4
+python-socketio==5.11.1
+python-engineio==4.8.0
+eventlet==0.33.3
+pygame==2.6.1
